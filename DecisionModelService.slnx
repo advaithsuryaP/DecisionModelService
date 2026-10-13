@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="DecisionModelService.API/DecisionModelService.API.csproj" />
   <Project Path="DecisionModelService.Application/DecisionModelService.Application.csproj" />
+  <Project Path="DecisionModelService.Core/DecisionModelService.Core.csproj" />
+  <Project Path="DecisionModelService.Infrastructure/DecisionModelService.Infrastructure.csproj" />
 </Solution>
